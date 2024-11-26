@@ -1,4 +1,4 @@
-- 🚀 Passionate Senior Full Stack Developer 🌐 | DevOps Enthusiast | Cyber Security Learner 🔒
+- 🚀 Passionate Senior Full Stack Developer | 🌀 DevOps Enthusiast | 🔒 Cyber Security Learner 
 - 📫 You can find more about me on my web site. https://vinibr.com/en?utm_source=github
 
 <!---
